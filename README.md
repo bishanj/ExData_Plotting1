@@ -1,3 +1,8 @@
+# Note:
+Please note that data is downloaded, unzipped, and read into R using the function LoadHPC.R
+which is included in the repo
+
+
 ## Introduction
 
 This assignment uses data from
